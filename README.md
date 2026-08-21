@@ -50,8 +50,8 @@ Please follow the environment setup of the original TPT repository:
 Clone this repository:
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
-cd <YOUR_REPOSITORY_NAME>
+git clone https://github.com/bongbong0713/DMAG-TPT.git
+cd DMAG-TPT
 ```
 
 Then install the dependencies following the original TPT environment.
