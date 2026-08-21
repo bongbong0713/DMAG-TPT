@@ -2,8 +2,6 @@
 
 CVPR 2026 findings
 
-# Dual-Modality Anchor-Guided Filtering for Test-time Prompt Tuning
-
 Official PyTorch implementation of:
 
 **Dual-Modality Anchor-Guided Filtering for Test-time Prompt Tuning**
